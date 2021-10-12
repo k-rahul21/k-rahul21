@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k-rahul21.
+- 👋 Hi, I’m Rahul Khandelwal.
 - 👀 I’m a self-taught front-end developer who is passionate about learning new technologies & building things. 
 - 🌱 I’m currently learning web development and DSA.
 - 💞️ I’m looking to collaborate on Front-end Projects.
