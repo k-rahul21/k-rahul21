@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm Rahul Khandelwal</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+# Rahul Khandelwal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k-rahul21&label=Profile%20views&color=0e75b6&style=flat" alt="k-rahul21" /> </p>
+**Frontend Engineer · React · Performance · Team Leadership**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k-rahul21" alt="k-rahul21" /></a> </p>
+3.5+ years building scalable, high-performance React applications at production scale. Currently growing into tech lead responsibilities — code review leadership, deployment ownership, release management, and cross-team coordination — with a focus on clean architecture, performance engineering, and mentorship.
 
-- 👨‍💻 All of my projects are available at [https://peerlist.io/rahulkhandelwal](https://peerlist.io/rahulkhandelwal)
+📍 Delhi, India · Open to senior frontend engineering opportunities
 
-- 💬 Ask me about **React, JavaScript**
+---
 
-- 📫 How to reach me **rahulkhandelwal.dev@gmail.com**
+### Where I Focus
 
-- 📄 Know about my experiences [https://peerlist.io/rahulkhandelwal](https://peerlist.io/rahulkhandelwal)
+- ⚡ **Performance engineering** — Core Web Vitals (LCP, FCP, CLS), critical rendering path, codebase optimization
+- 🏗️ **React architecture** — component-driven design, reusable libraries, state management patterns
+- 🚢 **Release & deployment ownership** — managing FE pipelines, release notes, cross-team ticket traceability
+- 👥 **Code review & mentorship** — reviewing PRs across the team and supporting junior engineers' growth
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-khandelwal24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-khandelwal24/" height="30" width="40" /></a>
-</p>
+### Tech I Work With Day-to-Day
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+JavaScript (ES6+) · React · Redux · Context API · Tailwind CSS · Node.js · REST APIs · Git · Agile/Scrum
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-rahul21&show_icons=true&locale=en&layout=compact" alt="k-rahul21" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-rahul21&show_icons=true&locale=en" alt="k-rahul21" /></p>
+### Reach Me
+
+🌐 **Portfolio** — [heyrahul.netlify.app](https://heyrahul.netlify.app)  
+💼 **LinkedIn** — [linkedin.com/in/rahul-khandelwal24](https://www.linkedin.com/in/rahul-khandelwal24/)  
+✉️ **Email** — [rahulkhandelwal.dev@gmail.com](mailto:rahulkhandelwal.dev@gmail.com)
