@@ -17,7 +17,7 @@
 
 ### Tech I Work With Day-to-Day
 
-JavaScript (ES6+) · React · Redux · Context API · Tailwind CSS · Node.js · REST APIs · Git · Agile/Scrum
+JavaScript (ES6+) · React · Redux · Context API · Tailwind CSS · REST APIs · Git · Scrum
 
 ---
 
